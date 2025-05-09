@@ -4,12 +4,10 @@ A simple and responsive tribute webpage dedicated to Astep, built using HTML and
 
 🔧 Technologies Used
 HTML5
-
 CSS3
 
 📸 Preview
-You can view the live site here:
-👉 Visit Tribute Page
+You can view the live site here:https://arulselvam11.github.io/tributepageforastep/
 
 📂 Project Structure
 pgsql
