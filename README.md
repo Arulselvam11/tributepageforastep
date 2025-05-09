@@ -30,12 +30,10 @@ Tribute content for Astep Institute
 
 Simple project suitable for beginner-level practice
 
-**🎯 Purpose of the Project
-**
+**🎯 Purpose of the Project**
 This project was created as part of my internship at Astep Institute to strengthen my front-end development skills. It helped me understand the structure of a basic web page, styling techniques, and the deployment process using GitHub Pages.
 
-**🚀 How to Run Locally
-**
+**🚀 How to Run Locally**
 Clone the repo:
 git clone https://github.com/Arulselvam11/tributepageforastep.git
 
